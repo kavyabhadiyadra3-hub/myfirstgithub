@@ -1,0 +1,6 @@
+Pointer Demo File Output:
+Value: 10, Address: 0061FEFC
+Value: 20, Address: 0061FF00
+Value: 30, Address: 0061FF04
+Value: 40, Address: 0061FF08
+Value: 50, Address: 0061FF0C
