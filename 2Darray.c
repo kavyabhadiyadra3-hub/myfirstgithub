@@ -150,30 +150,33 @@
 // }
 
 //nested function
-#include <stdio.h>
+// #include <stdio.h>
 
-float ration(int, int, int);
-int difference(int, int);
+// float ration(int, int, int);
+// int difference(int, int);
 
-int main() {
-    int a, b, c;
-    scanf("%d %d %d", &a, &b, &c);
+// int main() {
+//     int a, b, c;
+//     scanf("%d %d %d", &a, &b, &c);
 
-    printf("%f\n", ration(a, b, c));
+//     printf("%f\n", ration(a, b, c));
 
-    return 0;
-}
+//     return 0;
+// }
 
-float ration(int x, int y, int z) {
-    if (difference(y, z))
-        return  (x / (y - z) );
-    else
-        return 0.0;
-}
+// float ration(int x, int y, int z) {
+//     if (difference(y, z))
+//         return  (x / (y - z) );
+//     else
+//         return 0.0;
+// }
 
-int difference(int p, int q) {
-    if (p != q)
-        return 1;
-    else
-        return 0;
-}
+// int difference(int p, int q) {
+//     if (p != q)
+//         return 1;
+//     else
+//         return 0;
+// }
+
+
+
